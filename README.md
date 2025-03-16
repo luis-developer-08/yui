@@ -12,7 +12,7 @@ This kit is **JavaScript-first**, using **JSX instead of TSX**, making it access
 
 ✔️ **React 19 + JSX** – Simple, clean, and TypeScript-free  
 ✔️ **Laravel 12 + Breeze** – Lightweight authentication with Inertia.js  
-✔️ **Inertia.js** – Create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.
+✔️ **Inertia.js** – Create modern single-page React, Vue, and Svelte apps using classic server-side routing.
 ✔️ **Orion** – The simplest way to create REST API with Laravel  
 ✔️ **TanStack Query** – Powerful asynchronous state management for TS/JS  
 ✔️ **Laravel-permission** – Associate users with roles and permissions  
