@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "luis-developer-08/yui",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Welcome to my personal starter kit **YUI**! This setup is designed for developers who want a **lightweight, modern, and efficient** foundation for building Laravel applications with a React frontend powered by InertiaJs.",
     "keywords": [
         "laravel",
         "framework"
