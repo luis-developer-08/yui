@@ -1,4 +1,4 @@
-# 🌟 Laravel + Breeze + React Starter Kit
+# 🌟 MY PERSONAL STARTER KIT YUI 🌟
 
 ## 🚀 Introduction
 
